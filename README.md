@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Welcome to the Energy Transition Model
+
+Here, you will find some simple models to understand deep decarbonization pathways for the power sector.
 
 You can use the [editor on GitHub](https://github.com/ajitgopalakrishnan/testgtpages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
